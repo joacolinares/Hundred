@@ -1,0 +1,15 @@
+HundredPad 
+
+Tokenomics:
+
+- Distribución y asignación de tokens: Determinar si el token será unicamente para la 
+comunidad o si por el contrario, habrá una ICO en la que los inversores tendrán la oportunidad
+de invertir en el token antes que la public sale.
+
+- Suministro total del token: Determinar si será necesario la quema de tokens, ademas de la 
+cantidad total de tokens que la gente puede comprar.
+
+- Capitalización de mercado: Determinar un precio inicial del token.
+
+- Estabilidad de precios: Asignar algun mecanismo que evite la compra masiva del token,
+evitando así la manipulación del mismo.
